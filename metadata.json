@@ -1,0 +1,6 @@
+{
+  "name": "CampusMate",
+  "description": "CampusMate - Your Smart College Companion. An intelligent student management platform with whole-day attendance, CGPA tracker, OCR result verification, scholarships, deadlines, AI campus assistant, and academics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
